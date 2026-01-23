@@ -1,0 +1,43 @@
+// SeminarData.js
+export const seminarData = [
+  {
+    id: 1,
+    title: "Career Readiness Seminar",
+    desc: "An industry-oriented seminar to help students understand corporate expectations and interviews.",
+    speaker: "Senior HR Professionals",
+    date: "15 March 2026",
+    time: "10:00 AM – 1:00 PM",
+    venue: "College Auditorium",
+    audience: "All Departments",
+  },
+  {
+    id: 1,
+    title: "Career Readiness Seminar",
+    desc: "An industry-oriented seminar to help students understand corporate expectations and interviews.",
+    speaker: "Senior HR Professionals",
+    date: "15 March 2026",
+    time: "10:00 AM – 1:00 PM",
+    venue: "College Auditorium",
+    audience: "All Departments",
+  },
+  {
+    id: 1,
+    title: "Career Readiness Seminar",
+    desc: "An industry-oriented seminar to help students understand corporate expectations and interviews.",
+    speaker: "Senior HR Professionals",
+    date: "15 March 2026",
+    time: "10:00 AM – 1:00 PM",
+    venue: "College Auditorium",
+    audience: "All Departments",
+  },
+  {
+    id: 1,
+    title: "Career Readiness Seminar",
+    desc: "An industry-oriented seminar to help students understand corporate expectations and interviews.",
+    speaker: "Senior HR Professionals",
+    date: "15 March 2026",
+    time: "10:00 AM – 1:00 PM",
+    venue: "College Auditorium",
+    audience: "All Departments",
+  },
+];
